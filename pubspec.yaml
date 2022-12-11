@@ -1,7 +1,7 @@
 name: mastermovers_sme
 description: An application for multivendor ecommerce.
 publish_to: 'none'
-version: 1.0.2+2
+version: 2.0.2+2
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
